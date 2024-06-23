@@ -1,0 +1,28 @@
+/tmp/ptUfa3J0Oz.o
+Guess My Number Game
+
+Enter a guess between 1 and 100 : 78
+Too low!
+
+Enter a guess between 1 and 100 : 21
+Too low!
+
+Enter a guess between 1 and 100 : 50
+Too low!
+
+Enter a guess between 1 and 100 : 8739
+Too high!
+
+Enter a guess between 1 and 100 : 228644
+Too high!
+
+Enter a guess between 1 and 100 : 42326
+Too high!
+
+Enter a guess between 1 and 100 : 98
+Too high!
+
+Enter a guess between 1 and 100 : 11
+Too low!
+
+Enter a guess between 1 and 100 : 
